@@ -1,0 +1,14 @@
+body {
+	background-color: #808080;
+	color: white;
+	border width: 1px;
+	border-color: white;
+	border-style: solid;
+	text-align: left;
+	float: right;
+}
+
+img {
+	float: left;
+}
+
